@@ -9,7 +9,7 @@ volume
 
 ### Value based Algorithms (:absorption, :mip, :iso, counter)
 
-Value based algorithms samples sample the colormap using values from volume data.
+Value based algorithms sample the colormap using values from volume data.
 
 ```@figure volume backend=GLMakie
 r = LinRange(-1, 1, 100)
